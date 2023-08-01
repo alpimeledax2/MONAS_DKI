@@ -118,11 +118,13 @@ body{
     padding: 20px 20px;
 }
 .main-cards{
-    margin-left: 20em;
+    margin-top: 10em;
+    margin-left: 30em;
     display: flex;
-    gap: 20px;
+    gap: 40px;
     flex-wrap: wrap;
     width: 600px;
+    position: absolute;
 }
 /* 
 .card-1 {
