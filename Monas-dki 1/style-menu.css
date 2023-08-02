@@ -80,9 +80,9 @@ body{
     margin-top: 15px;
     list-style-type: none;
 }
+
 .sidebar-main-fitur {
-    background-color: #72AD11;
-    
+    background-color: #72AD11;  
 }
 
 .sidebar-main-fitur > a {
@@ -90,15 +90,14 @@ body{
 }
 .sidebar-list-item {
     padding: 20px 20px 20px 20px;
-    font-size: 15px;
-    
+    font-size: 15px; 
 }
 
 .sidebar-main-fitur {
     padding: 20px 20px 20px 20px;
-    font-size: 15px;
-    
+    font-size: 15px; 
 }
+
 .sidebar-list-item:hover {
     background-color: white;
     cursor: pointer;
